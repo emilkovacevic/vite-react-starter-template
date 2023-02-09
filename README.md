@@ -1,1 +1,1 @@
-# vite-react-starter-template
+# vite-react-starter-template using eslint and airbnb
